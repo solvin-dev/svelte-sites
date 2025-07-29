@@ -5,8 +5,10 @@ This is a listing of popular, large, or well-made websites that use Svelte/Svelt
 
 Contributions are welcome, however, **this is not a self promotion board**. Websites being submitted must be notable, popular, remarkably well-designed, or have some other distinctive feature(s) that make them worth listing.
 
-## Contents
-- [Apple Music Web Player](https://music.apple.com)
-- [Apple Podcasts Web Player](https://podcasts.apple.com)
+## Very Popular
 - [Yahoo Finance](https://finance.yahoo.com)
 - [Logitech](https://www.logitech.com)
+- [Apple Music Web Player](https://music.apple.com)
+- [Apple Podcasts Web Player](https://podcasts.apple.com)
+## Notable
+- [HENSOLDT](https://www.hensoldt.net) - "One of the largest defense suppliers from Germany" - Svelte 5/SvelteKit
